@@ -6,7 +6,7 @@
     },
     {
       "name": "visma",
-      "url": "https://vencotalent.visma.net"
+      "url": "https://signin.visma.net/loginwebapp/loginPage.xhtml "
     },
     {
       "name": "topdesk",
@@ -15,6 +15,10 @@
     { 
       "name": "linkedin", 
       "url": "https://www.linkedin.com/feed/"
+    },
+    { 
+      "name": "edit this page", 
+      "url": "https://github.com/patricktholen/work/edit/prod/links.json"
     }
   ]
 }
