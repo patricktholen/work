@@ -1,24 +1,8 @@
 {
   "Main": [
-    { 
-      "name": "outlook", 
-      "url": "https://outlook.live.com/mail/0/"
-    },
     {
       "name": "visma",
       "url": "talentredirection.visma.net/tss/"
-    },
-    {
-      "name": "topdesk",
-      "url": "https://vencomatic.topdesk.net/tas/secure/mango/window/2?t=1776757743287"
-    },
-    { 
-      "name": "linkedin", 
-      "url": "https://www.linkedin.com/feed/"
-    },
-    { 
-      "name": "edit this page", 
-      "url": "https://github.com/patricktholen/work/edit/prod/links.json"
     }
   ]
 }
