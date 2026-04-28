@@ -8,6 +8,10 @@
       "name": "topdesk",
       "url": "https://vencomatic.topdesk.net/tas/secure"
     },
+    {
+      "name": "azure devops",
+      "url": "https://dev.azure.com/VCMG-IT-Operations/IT%20Infra"
+    },
     { 
       "name": "linkedin", 
       "url": "https://www.linkedin.com/feed/"
