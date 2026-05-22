@@ -9,6 +9,10 @@
       "url": "https://vencomatic.topdesk.net/tas/secure"
     },
     {
+      "name": "my topdesk",
+      "url": "https://my.topdesk.com/tas/public/ssp/"
+    },
+    {
       "name": "azure devops",
       "url": "https://dev.azure.com/VCMG-IT-Operations/IT%20Infra",
       "icon": "https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-icon-svg-download-png-3029870.png?f=webp"
