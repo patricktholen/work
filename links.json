@@ -21,11 +21,6 @@
       "url": "https://isp.vencomaticgroup.com/procurement/isp_invoice.nsf"
     },
     {
-      "name": "Building operations",
-      "url": "172.16.0.102:4800/#%2FRegelkast 3.1.2%2FWerkplekken%2F1e Verdieping%2FZone 4.2%2FWerkplek"
-    },
-
-    {
       "name": "azure devops",
       "url": "https://dev.azure.com/VCMG-IT-Operations/IT%20Infra",
       "icon": "https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-icon-svg-download-png-3029870.png?f=webp"
