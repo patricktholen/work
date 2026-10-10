@@ -157,6 +157,8 @@
                         const el = document.createElement('a');
                         el.className = 'shortcut';
                         el.href = link.url;
+                        el.setAttribute('target', '_blank');
+                        el.setAttribute('rel', 'noopener noreferrer');
                         el.innerHTML = `
                             <div class="icon-container">
                                 <img src="${iconSrc}" alt="">
