@@ -44,97 +44,97 @@
     {
       "name": "visma",
       "url": "https://home.visma.com/home",
-      "icon": "https://icons.duckduckgo.com/ip3/home.visma.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACJElEQVR4nKRTy2oUURCtuo/uTiYmElARQfBBjI8gY5LZqDAEIWQjJNp7defCH4iiA6Liyi/wC1oQ1JUijOhCkjhZRIhDNqJZGJioyMxgd997K9XdMCTrKbppqqg6dc65twX0GQL6jL4B1L2F9Iqn8b61pvmh5d+u19HcnU8vDfjyYWzSzY8t72a1Do7C9DmiOJoNpUQPHkX6EwAJ4WTcIhCXCeWti4P/j+S0JFRHhrCKAg5kgOZafIIAb2glZ4YCOSPQzWZ9YQgoNqLSmnFm1VcSZUmNFcRoIk3BOqL3WYbkpj2lXJymP7uxs4JgKqtHEVoRAVoEaJR8BEJ7Oh9AKncTkGBhNc+Fmgo04/CMcW6LOVbuzG0P90wkC0tUJBOLC53DrPUY6//TkXEjJ4QwnRhACfiOYZqeVqP7g+GzPQBw8KUTcxuJcRR+JdBKIWDjWTTye/Fq+xAjnGf6SWzUMjlYH/SBpLKTPQBp9Tpv3GIWp6Rwc1qyGoDlvEEHkwy4jwg2nrzEbf5+5YX8iEoPoPYau7z+M7s8CgTz3YTtc7hS3BRbZv2GAXM/BNlv7YQyxeXwDHkiDEnmPpBYKflCDnj6oLFWxEIWDAhnPQ3KAa7luQmaiTHka31ubDy9oKIoI8QyDL3514WT7AQfAm0+fYE/akA8aJb+tt13adTbnNEr+IXX8bGz7jgPsVd9xp5/gTeK4q3tqhNmtb1jxHeCsDjhPmMHAAD//8B0lucAAAAGSURBVAMAoqnrqgwgvN4AAAAASUVORK5CYII="
     },
     {
       "name": "IT Projects",
       "url": "https://vvcmg-my.sharepoint.com/personal/patrick_tholen_vencomaticgroup_com/Lists/IT%20Projects/AllItems.aspx?env=WebViewList&npsAction=createList",
-      "icon": "https://icons.duckduckgo.com/ip3/vvcmg-my.sharepoint.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABQUlEQVR4nKRSMU7EMBDcXds5RIOEBA0NHQX/oeERFBQUFJfwIygR4iM0xz8uWWY3MbG543RSVnHsrHfGs+NEKkK/ztc6UEvHx4YXgD3iErATLAFb8PcdKwggA09PdHbbEPm32jMX5hfjJeSDA48tWM5q2ZNYW4EyzQZlhnG2ehL2+pg3fDJgxIZOoL2aa5JYMhvIZP2e6tN4PFe9TCSm+O0m6Ra99z1K0ftF6qsDS/W5XQEwmHwYEANOZGgOkGOmnTS7oIpskm8EEozETRvBNpqGDkYmyMMVaHFlKf0DpNlXLojiq9yj/y0NMGAAyxVf7oGUChjmC+TDf5EOCrBAYnAVSs3qdAfKpZnMTgKW7unzpY0CJ4xA/FeEB2n1R6xOq3zPbFfbPX6sW8vHILJB+nqsU0oxUm07Vd8Gfnh/bnPqBwAA//+J1EBlAAAABklEQVQDAPMuccMkK2JwAAAAASUVORK5CYII="
     },
     {
       "name": "topdesk",
       "url": "https://vencomatic.topdesk.net/",
-      "icon": "https://icons.duckduckgo.com/ip3/vencomatic.topdesk.net.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACYElEQVR4nGxTzWsTQRR/783sbsKmjfQilhgFEfygiDZC/cCaehFqrJeI32e9evDsreC/IYKJF01OQSWKR+uhLepJFKV6K0HapJvdmembTTakIbPszDBvfr/3fvPekwYAEYAXgLcXTuRF2p0BFYEEEbWj7trVT9//WdtTAOJfw8hAOzUvH5/zHPdJaKDIB1nLxqzGaNjktRGpcHmh+e0rnxOOkOCHK6ceu4KeOQQiUIatJuEF4r0vJXSUamllHl58v1phq2CrSgiItP7Bzra62vAdEzGGPxP/mudWNwxTRPuOTqRfbCwWblmwJRkQXGquv+mEaokAtySh1DZEtMPejCNw9nuu4tgx5TrPf1/fS0JV3iw01z9uB90bBPDfIbQGFWmDvhQwnXJYkBEcoQ2PfMEkpcJtS1LtyQGwm5t88G7+ZNH3nBoLzLiIejrlEpOyFINEca6UIESJaDphdCdX/1zFREtCUj9/7Fwu69cOeHLKPqfShrHIFFaViUmYFSWgCiL9iBKCcrm3np5KQ47DpjiPxj5H74fxQ9rJlFnLK1C/FmeLnuvW+CgTKqUZ1vMe59WMSrhnJYhhsO86r/naRKiNYq+CXfeLYggMqLej8MHB+kpl8Ih/Smfn01LWuIgme2Cbohhs47MhKJmAVXg/X1t5mRSU2CgVljwpKwPPQ0XSHxGnlhOKuj0CjuuAE3SEtWY8QSRjJ4DJy7FTnHSkw+BWOwzujoIHzfSzdGbOl9xMWnMzYbZvsUW9yf3QCHSwfKi+Or6Zhtv577XZvCYxE4eGEHV31Nrhxpe4nceB7dgFAAD//8rbVEYAAAAGSURBVAMAjQgiOsb8y6IAAAAASUVORK5CYII="
     },
     {
       "name": "Support",
       "url": "https://vencomatic.topdesk.net/tas/secure/agileboard/#/board/82b07a2e-4922-40f7-a4d4-889b7035e446",
-      "icon": "https://icons.duckduckgo.com/ip3/vencomatic.topdesk.net.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABkUlEQVR4nJyTO08CQRDHZ5Y7wPBIIPF1wYJgYigkanx1RmJMKIzxI9hp66uwUD6BjZUUgrGksVA7E4wFV2lBAh/AGNBgbHnuOocCx8FBwiRzt7Mzv3/25nYk+Dc1suKuVkshARhEFC4QrMiBZ3jNk1tPpUpgYvgYmbY5684ICNineJHcTW4hr5EXyVOc4+Xa05uKQFVGgZeNuXOBcERrJ5hb3m5hp0uuwC0mk3V9ggHjr/Qu9IFhxMImx63yxWflfVdEidGfQHs8b4bCCCxGBwz0gGHMJoOMjdIfIeBEmVevMQq8JWAmYoCb1iHSkdGLmMBtEcBjRfYlurKaiIPJN6NWySeznrBe5Ewy7s447FAXDPqiOusQKOwsh7lgMYJ9A7jWJ0hGmJaBgXCjiem41kRpOLj9G9nH9uqWEOxqGLghQI1eoAs+0Z/FPPXlQLFOxfWwZpY9/6xqlcoZKvJS7CGX4e+C0TDhF83PPUd2qNylHzCb5V3SzcU3jXPZDiHaClLoQo5FLiBT8dpy/oT5OP8CAAD//2SloGAAAAAGSURBVAMAHtuXRibHaWsAAAAASUVORK5CYII="
     },
     {
       "name": "Infra",
       "url": "https://vencomatic.topdesk.net/tas/secure/agileboard/#/board/27015a7a-b308-4f5a-b4e2-77547a55de52",
-      "icon": "https://icons.duckduckgo.com/ip3/vencomatic.topdesk.net.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABkUlEQVR4nJyTO08CQRDHZ5Y7wPBIIPF1wYJgYigkanx1RmJMKIzxI9hp66uwUD6BjZUUgrGksVA7E4wFV2lBAh/AGNBgbHnuOocCx8FBwiRzt7Mzv3/25nYk+Dc1suKuVkshARhEFC4QrMiBZ3jNk1tPpUpgYvgYmbY5684ICNineJHcTW4hr5EXyVOc4+Xa05uKQFVGgZeNuXOBcERrJ5hb3m5hp0uuwC0mk3V9ggHjr/Qu9IFhxMImx63yxWflfVdEidGfQHs8b4bCCCxGBwz0gGHMJoOMjdIfIeBEmVevMQq8JWAmYoCb1iHSkdGLmMBtEcBjRfYlurKaiIPJN6NWySeznrBe5Ewy7s447FAXDPqiOusQKOwsh7lgMYJ9A7jWJ0hGmJaBgXCjiem41kRpOLj9G9nH9uqWEOxqGLghQI1eoAs+0Z/FPPXlQLFOxfWwZpY9/6xqlcoZKvJS7CGX4e+C0TDhF83PPUd2qNylHzCb5V3SzcU3jXPZDiHaClLoQo5FLiBT8dpy/oT5OP8CAAD//2SloGAAAAAGSURBVAMAHtuXRibHaWsAAAAASUVORK5CYII="
     },
     {
       "name": "Management",
       "url": "https://vencomatic.topdesk.net/tas/secure/agileboard/#/board/5b0478d6-5d77-4b5b-ae5b-1167839f63cd",
-      "icon": "https://icons.duckduckgo.com/ip3/vencomatic.topdesk.net.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABkUlEQVR4nJyTO08CQRDHZ5Y7wPBIIPF1wYJgYigkanx1RmJMKIzxI9hp66uwUD6BjZUUgrGksVA7E4wFV2lBAh/AGNBgbHnuOocCx8FBwiRzt7Mzv3/25nYk+Dc1suKuVkshARhEFC4QrMiBZ3jNk1tPpUpgYvgYmbY5684ICNineJHcTW4hr5EXyVOc4+Xa05uKQFVGgZeNuXOBcERrJ5hb3m5hp0uuwC0mk3V9ggHjr/Qu9IFhxMImx63yxWflfVdEidGfQHs8b4bCCCxGBwz0gGHMJoOMjdIfIeBEmVevMQq8JWAmYoCb1iHSkdGLmMBtEcBjRfYlurKaiIPJN6NWySeznrBe5Ewy7s447FAXDPqiOusQKOwsh7lgMYJ9A7jWJ0hGmJaBgXCjiem41kRpOLj9G9nH9uqWEOxqGLghQI1eoAs+0Z/FPPXlQLFOxfWwZpY9/6xqlcoZKvJS7CGX4e+C0TDhF83PPUd2qNylHzCb5V3SzcU3jXPZDiHaClLoQo5FLiBT8dpy/oT5OP8CAAD//2SloGAAAAAGSURBVAMAHtuXRibHaWsAAAAASUVORK5CYII="
     },
     {
       "name": "ISP",
       "url": "https://isp.vencomaticgroup.com/procurement/isp_invoice.nsf",
-      "icon": "https://icons.duckduckgo.com/ip3/isp.vencomaticgroup.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC/ElEQVR4nKRTS0hUYRQ+59x/7jhj42hpmY+IabLHJso2BVFREREEFUZFLtr0wkVQEETR4C5oGUQP2lULIYqCIsigouhhQS0KLcmSESN1Jq/OnTv3P6ejpNi6H37u+c8533ee10BLiwO9mwm6DocAIHoRDl026R9F+tIYZbjyV595YpqzCVQZuuqaLWSQJ2RM773WCuSsL1FwtjoOv/Ke2YOI28m4VRgpHyan7LpJ1H10HHuGIrFqvexE430SmXXv1WjsNSHhakTZjwVIjnruFgVfVOIlyj1ECLWI1jCWEvrerbatQLSM0DlmEG6vTYYbCGYcFm7STwWI3Cnmg7ZgfGxnTW354xkez9gWtmqdJ4XDapBg0zQBkhES+YiAeY10yk04nW402tbfV6gCv6hYCxKGcRtgAxf9NJcKYgP/5z8ZdPfYpyyyT4Tvat/mqtwedcMMlCmeA9Co6xwqPdQsjtqS/yjwxzrMTIJUCuKA3suez9HO9FKzkcTeZBuuZK9oyHW0MngjaNq1Z0Pih73vzy/KTxMYYhLHHEeI7GhaAl8Feb7mOAsQX0TIDyU0YIUHP1Ss6Zwa4SSO1QEFqFTiXITMO9UtFuBG1RW1lIyXK16NVXrkYuyGY+1XODexE5MLg7oUon66SHr6Gxrchv5kESHDGcjQkXle7Olgn98CHRqtRSfaYRVH5xQ9lPKbCWhnnrPtOLTo9CHlWo0iNcr6nPPhFawwbVrnChHsJbC3GM0JZL4viKsI8LtFmJj/BmE5SQpajiBpNT5TolZKmG2a2wEEeqfj3AVClTreLDh0Sd/rNeUHBNKt2Q9GmbqmxvgJSvxSC1M7zNPykqprVKf7IckAI3SrLa66ccEwpxv3Q2XvF3oDpMWN63jGxJFQnX4jy1ttTo+CF6hTEi3WE+JB/cUuCMIcoMgBbd13tdUnnHgregsztcN2nIzN5cppdl1P/3BfU/2cioKBJpcoy87vEQrLZ1d+K8uOpAq1E+lW9Y4M5FM1K4LA5hD+8/wBAAD//xiqqY0AAAAGSURBVAMAhpZkqrBcop4AAAAASUVORK5CYII="
     },
     {
       "name": "Building Operation",
       "url": "http://172.16.0.102:4800/#%2FRegelkast%203.1.2%2FWerkplekken%2F1e%20Verdieping%2FZone%204.2%2FWerkplek",
-      "icon": "https://icons.duckduckgo.com/ip3/172.16.0.102.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADGUlEQVR4nBxTzW4cRRD+aqZn9mcW7LXx2pbiCCuWURCHiEtAQhyRcuANOOURIiHeAMQRLjxCDiAuSEhwRQQixfmxrdhKnB9nvevddXbXuzs7Pz3dXanZ0bRmqqvqq6/rq1Y//v3m+8LynVmSBknhKDeMtHDICkuZfFNjkRkgt+DSl1sL7ZgdVUzh3E+q0OY72STrwM4BhWNYZhixJV6CCbkYWgKMrNwyYqOg4YKC8a2ytqC8YBanZ0tkAZmlZsEkkerOQhItpoWPGYfid6gh9ho2cewMKwZhtRFQd5xCcDATvje3l3hnLcJfRxd40E4xsQEa5gK782NUunuIRqd4n3MKXAKlfKLrG3Us13wm8hZnbjVCTNIcW2srvNtKEQweYT1+SctOo1drItxZ4Xmc0969+1CZJBx2Y86EcqwdGgGwsVznduLj5OB/bA/30H/dw9uawSjWeHkxQbffp7Ba52ToQ0lPuD/VNBcp4szi0oU4Pn9NtSe/Mton+LNX4OD5M7q+2cLu9iY+qHVx88YZNppVWpdiypMeKCJWfsjVuk/XBvscntzD0/19eqXWodUlbt/6GN98UUVYdBB3Ehp3gHl7hpFoK00UvSIPnjQxePgb2s+OcNqbUrq6wle2PuRPJue0NfqP/rjbwYtzh8PTKU8IpBWwttoCffn4tsuejDF/1ON5dklmXAFL1WZ9Fck/A46Pz4h2QkSfbZR6IhvPqPqej6DiIchFw6u/f+6Soyn0UCNoRog2Q5hujniQQ3dmqK8FiK4EtDTNOJgV5PvEBHnBTDIkhINbjKoqRw7lgWB06QNCT2yJs+U4yobEQ4HhhwTfE1tyRXYFT361jBtrfISr+Gr5U3quzyTaw8hcouZFaDaWiOC4r4d0WLR5ks7F7QuIEQBRoESC9bwxz9mIveI36Ub1GsYuRuJymVCLihdQpBr8ePIK8IVZmSePKolAlIAXuIGb0i/Du1hSLUlx9G/6tNQIuVTSkLkXVimELXkOZSsEhbwXX//gHN+RayiNEJewkSsFtmYBLchYPNI5LDYWixEKZ9DP7wAAAP//aJdpEgAAAAZJREFUAwB2itw5ZhwIYwAAAABJRU5ErkJggg="
     },
     {
       "name": "it infra",
       "url": "https://dev.azure.com/VCMG-IT-Operations/IT%20Operations/_boards/board/t/it%20infra/Backlog%20items",
-      "icon": "https://icons.duckduckgo.com/ip3/dev.azure.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABMUlEQVR4nNRSsUoDQRB9e2yRzs5KG0FMQAMKVoKChY1ttBBS2fgBwq2VQRRyhZWVlYWNWNvY+AeJVtkIFiEgKgQUESw0N76cKZbcJRfS5cO6Z2ZfQO742EQjL1BCryU+jpFWvBrm/0aVCxzUCtC1C6jtZ7KKcq5/f4Cxp7RFskJJOOLPO/6PJTkOWjmX8DUm4BMO80tSlfY8ABBFUH22hkkrqpm4ja6LDjk+R7aq+Jk7hlDQpMbURTkjjAC0n5hPATUJf0rRoS7Bxe0K8w0ECp+K33EkHHYQDDf7PZJskAHvq0ws4RktMkXcsrJ/cZX2dg32kmk453zC/FHVGGB9od+let6zPgxflcs2noZ5eydStQ29T1kvq9QWvyIzr5dgCfbXO0tnp6Q0TsozX52Sn8AAAD//w5nwdcAAAAGSURBVAMA9CVXOSsfLQ4AAAAASUVORK5CYII="
     },
     {
       "name": "my work",
       "url": "https://dev.azure.com/VCMG-IT-Operations/IT%20Operations/_workitems/recentlyupdated/?fullScreen=true",
-      "icon": "https://icons.duckduckgo.com/ip3/dev.azure.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABMUlEQVR4nNRSsUoDQRB9e2yRzs5KG0FMQAMKVoKChY1ttBBS2fgBwq2VQRRyhZWVlYWNWNvY+AeJVtkIFiEgKgQUESw0N76cKZbcJRfS5cO6Z2ZfQO742EQjL1BCryU+jpFWvBrm/0aVCxzUCtC1C6jtZ7KKcq5/f4Cxp7RFskJJOOLPO/6PJTkOWjmX8DUm4BMO80tSlfY8ABBFUH22hkkrqpm4ja6LDjk+R7aq+Jk7hlDQpMbURTkjjAC0n5hPATUJf0rRoS7Bxe0K8w0ECp+K33EkHHYQDDf7PZJskAHvq0ws4RktMkXcsrJ/cZX2dg32kmk453zC/FHVGGB9od+let6zPgxflcs2noZ5eydStQ29T1kvq9QWvyIzr5dgCfbXO0tnp6Q0TsozX52Sn8AAAD//w5nwdcAAAAGSURBVAMA9CVXOSsfLQ4AAAAASUVORK5CYII="
     },
     {
       "name": "atleta",
       "url": "https://atleta.cc/p/qPUL/qPULiPWakK8C/events/qPULS2GiQeKk/ff1fa4e9df5f0ecbfae3dd3126df7914fe3eedfdb80bc090339809ac29ad1094",
-      "icon": "https://icons.duckduckgo.com/ip3/atleta.cc.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC8UlEQVR4nGRTW2sUSRT+TlX1XOLMbHZGdthcdl2TjMnsTLIuKlER9EkQffFdEH3wUR/9Hz4K/gB98weIoHh58RI0YDQJJgjeo6OT6e7qquOpVlSwu6miq87tO993DL4/B0vt9r9zllEkYm+gCUaOjSxZJh8xs1MRIVlcfPwQuB4HLwrLjs7ZWUX+EojbYJYzCg+cc/LLEkPLHixllehgWnQep5ceX3hIzeaJLb//UbutlOlmNvZKIQ9grUW1VkOhWMDGu/dQ4YLyeKxNSXlvH228/jRvao1yB4wdzsZOjEJipDbzk60W7dm3F5FkX366jFs3brLWKq8sy21NK/gqgi7IoSMFHVI471GUEuZ27qRCFMFah+n2DE1MTVKSJAEcgm3uI75KbAUd01eEAtEz2/ld5I3i0A/vHQ2ShLv/zdFQeYhDX3KUuQ+xMlHeMrBgxGBAvjVJn48f5Xv3H9Cg30epXIYRaPV6ndtzXUrTmEKlof/B12SsyeSdl0K0RnrsMMzWrbTa6+HN5Stobv8H4+PjaDab1Jnp8vrqc7x99waFyEhW8Q0cs2Clj33YQwfgp1tg76AntiF5toLVlRUsP1pCpVHBzP426iMNvHrxEiiIPGwmFEcRc5axrw/DHj0M4Q8oFtmNjlBUEP4zherfNUydmeLiiMirV0GjX0fv2SabSsQqK5VBcQz3/yx49E9GkrK0nnjbGCcCtzaxBd3zHf5te5Uib7g2VuGxI6NglytLxGp9TgPsNyhGJDxU4uxDQn/NN3j63KyISNhIhaNAtBKE1iNnT3qnON5MuVzU+t4DF127AQh+LK3x2Ou73Do1hWzTIdmwnPUtu9jh45Me1q+uO2VYWwn7TcrVO4pNx6WbHsNVwiCmQtHDa+Epk/rU13ELbNu+Y8WRYu1yKet+f8HWh+dvUUS7KTJ1ilMndTpnteOEHeT1KRzbsEtLtc7IqAUX08m1tYvr9Ms4axlnp70x/NNdnp6FXhkGGeeFH+P8BQAA//9WNE3TAAAABklEQVQDAGFEexpzwodTAAAAAElFTkSuQmCC"
     },
     {
       "name": "CMDB Vencomatic.xlsx",
       "url": "https://bechtle365.sharepoint.com/:x:/r/sites/BG365-ARPAssetServicesDaily/_layouts/15/Doc.aspx?sourcedoc=%7BE05C302B-9041-4FC8-888B-4D897F5AEACB%7D&file=CMDB%20Vencomatic.xlsx&action=default&mobileredirect=true",
-      "icon": "https://icons.duckduckgo.com/ip3/bechtle365.sharepoint.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACwUlEQVR4nHRTTUgVURQ+59w783y+ZwhFUEmWQZBt3ERmINkiEkEKtCwoCIrUEMIWtctWRdAPRSotQghMdFG4qGhRUlAG0ioKgp5J7Qoq7fXmzcy9p3PnpbyKLgz33plzzne+7zujobRQHnaHdXdObCXNfcycRwt7gXAFAr9lhkcmNLfnDt18BWULl07XWlPrV9VdJKJuMIZcAirazcYCKiTUCjg282z5fG7f4IVFUIQBoJr6zpQHK8d0xm+3xRg4NDOIHIOnt3AUG2S5IRvJ8ajSVzYfjuS6Bo+4XAVTwMs7mi/pZZWHzXwhECwEa2cRcTumfQIl+L5W5GmNmogNg8r4DdVtDd+/9s28wNrR49u0p59CIgIrsLwgp8tIqt7GAkoEyJxQdY2AiEOaWiWYoihs1KSoF32lbRAVKeUp2V/nuobPwX9WzXj3Gj+2bZRJZVVsuqUnbOLICEUgQZMN7iWRT3ZoQcFELLcPlO4e0wFK+1lbiKzQ3aklsxaEl9il+WcYSZnJpEDLlFm0tuTVVAxnQaThdnA8xA4C2EDyLZYoSynt4qdnO4fe/e6W/7Z79UTPRrDY6JySF85qTRL1HtHVQafVZBL6b/vKFUhZaBcbPbQcy4w4hDktnTxWWa/e5os/QhONJcgt0u4f2KU7EuwRi50nljyFYOxzXDt6bLOn/WnhbmU9cF4ltpFj6jS1oq1MoTVv5Fu/zEUVAjp9II7i5qR+3WjPSVWdvpJwEzZSIhFAhJIxluR80cn2DD3VJOMcqap0hVkoDOf2D/WQG8fcwaGrZj4YkUkDW4yMKRQD5wgHUcihmyaeFgJpqaxUtkKSg/vBN3PK6YPlf2PdeO8Z6eC0/DjVggQythZELOH6UCJ3SbqwNLfCj5/7/VPFJYkKl9OE036qEsQOTbJaH8ROneFVsYqvP6h48bLctBfAAAA//9N003UAAAABklEQVQDAPyjVf48JVdCAAAAAElFTkSuQmCC"
     },
     {
       "name": "Docusign",
       "url": "https://apps.docusign.com/send/home",
-      "icon": "https://icons.duckduckgo.com/ip3/apps.docusign.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABLUlEQVR4nJxRPUsDQRB9sy5+RCJJY5T4C2yECGJrK6mC+QliYymk0UY7O7HSwl+gpBEOYmFnZyAYsBDFJtyVJxbH5fDWuYPAZW+PXPJgWObtmzezOxIaVKNxzscZzPA4ehzX8LwHsixfGkQLyMYSxy6U2kShsKaazSuJWUC0wiYtBMG7zBCkOaV0ZhVCHFId6oKT+biOZRvrx3vFYmcnzqILIXBQrWKrVDKZONEEp0mmYy/j0/4YU1mOg5taDdvlsm5SEciBV9fFUbeLHp/a8/xcBiOT+8FAp7+n2sIwDJNp9Jan3BOkQNTn/7g1TECTSqPObwjDE2q3+1K/qWAfc1hMGf1hCPf35wXCvuPkmYu/4nZ1w3Ipu/XlI6iV5GSGMDdm/8SEQTCF3teJfwAAAP//ezSDgwAAAAZJREFUAwBUnFt675uusgAAAABJRU5ErkJggg=="
     },
     {
       "name": "Teun stagemap",
       "url": "https://vvcmg-my.sharepoint.com/shared?listurl=https%3A%2F%2Fvvcmg%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Fsander%5Fvanasten%5Fvencomaticgroup%5Fcom%2FDocuments&e=5%3A7278ef245db74f29bc60c16a18a57fc1&sharingv2=true&fromShare=true&at=9&CT=1783929243585&OR=OWA%2DNT%2DMail&SI=NonSentItems&clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MDMwMDguMDUiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&SLSync=F&cidOR=Client&id=%2Fpersonal%2Fsander%5Fvanasten%5Fvencomaticgroup%5Fcom%2FDocuments%2F01%2E%20ONDERWIJS%2F03%2E%20STAGE%2F2026%2D2027%2F450%2E%20Teun%20Heessen&FolderCTID=0x012000B77282EEFC918B4A88F4D8F7807CA0AA",
-      "icon": "https://icons.duckduckgo.com/ip3/vvcmg-my.sharepoint.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACCElEQVR4nKRTwWoUQRB91dOz2U10sxsJQTQ4uShEMDGoSE5B8L7ePPoDsuMX6B/oJ+QPcvDowehZXDzpLeYiMYLr7MzO9Mx0d1m7imiCh7AFDd1V9V69KqoVZjSFGU3/L3D3Zb1jWq5nF6itm/aQ5tTuYL11eDKPTjoe7nGUON77HvJG1nCEeY+gxdwI5O7di3e3F5+cUhDFg446Un2TpXE5KjpVowVTA2VN0IJTNagmRqg43nr1De/vL/8hoc34oFMXbjA6HkbRjRV0rq3iSwn+ISBBQ4WetbYIlCXV9vDiswtq59N2982EQJms6udJGnm2aAv4OAfSnMnnDm7oUB/V8EORcaWJ8lIT5nILfkXvXz9In09byIfpozzJcLV3B1/HwMgwqkoqFdJDUQHSe7DVRiGCTAlYB4RytPZx9DFNdF6UUXN1GWPdQj4FM1MuHaclbFLg3PZ5lHMBEgPkE8khIdSEIAhAxH29dO/WZwZFaWbhnNwqB5+W7EaGnBf5awtIRYyEUXol01SsFCMgLyy0qM3Y7nrGU6GDcp7YWHLjil1uoG92kSaYEpTu19S9DJ6ltOVg8vxAUTzsVCG/ZsYmOWaWTF+UhIvzcOtLyH6D+e/lIUjidIceTBepIySNysRsXc9b3kBXJr12AWORbaWk/wcNFtBbDvEMj2n/1Cae1Wb+TDMT/AQAAP//jwuVcgAAAAZJREFUAwCO3BAlPrGgJAAAAABJRU5ErkJggg=="
     },
     {
       "name": "Teun - SVS",
       "url": "https://studenttracking.venco.group/Application/Details?id=1335",
-      "icon": "https://icons.duckduckgo.com/ip3/studenttracking.venco.group.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACfElEQVR4nFRSTUgUcRT/f83srjpLflUqqBm6aaYWxW5FghIhgRnU1Q5e7BJYERHdgj6pQwQdOkREQaAWdHDdPC1duiilYNYyKRqmTq657jozOzP/f2923D7eYT54v9/7vfd7j3HOhRA4F0ZGpwUBCSOEhM0Fxe6XF5D1YAQJ4eYdHr16+25T562jPaNv3y9nHEaIWypP8NDwJNzhhJCPj19+uHefz//oPHsyHGma1TZiM6uU5jh51pYCpsSx7Omnr/2Idd24cuxS/7by0khtsbqq3xmbY8AR/3GgOtn8mUxOf9tRt+/g5T4rm+UcKtj9kco3kysP4/OMUv6nM4QIkLhhmVa6qe+MBBPLMuhKDGDkYmfNwNCXqcU0JdjJcwgYwQL+wpLyhp7jy5r2LjYGmuPjE2oi0b23LBCg10dU1y3B8woYswJf5aH9SnUlZXRoeDiVSo2MRA3LKpRppDoYnUkupbJgmjcJEVyAQt3pDtM0yopL2tpao9HRqqqqxsZGGLem2GendFXLQF2OMDDcPVCJ1Zw4zGSZCx4OhwcHh1pamonroMik08hIUSygqdw+YQZ3HchXUc4pIEhDqP5UT3dDKATJtOnEp2aDBVb99kJ3CQhkoCXXXM5kafJ7QltPKkXKud7eoKLYDrr2LL7y6euF9t2lRX4wGucuBXP3mDhBZOmX9iT2qnXXnvbmSMDn29i0YhOqn5KOttqyoAJQALoHBy/vR3A+t7hw88WjuDqhy0aWCr9PEgSvZ/SdAeX5+QdH6g+ADdi7VgjTNLOGaZvW59mEurawaKxp+nraMghBdlYPVdQNdPVJlG0peEeSswGG+3vV/4bjOID5DQAA//9mLFvRAAAABklEQVQDAEKhUsE7KwF/AAAAAElFTkSuQmCC"
     },
     {
       "name": "ARP",
       "url": "https://www.arp.nl/shop/my-account/wishlists?sort=byNameAsc&viewableBy=viewableByAll",
-      "icon": "https://icons.duckduckgo.com/ip3/www.arp.nl.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABOElEQVR4nMxTvUoDQRCe2UP8qwR/sNHCkDss7hSNZ2zERvRAfAjBd7AQtFMfIfoEaWNx2llovBAjdyAaD7QURKyigng7zspFYpEYuEIHhp39Zr6Pj2FXQMIQkDD+uYDh+VtGKdhuNYPNGrrnr/FxoGpCXL+dMffbFkifBw4iFRocSgRavbEnDn8VSJcuM0jihMtuzlAZUDDnm5SwEGYtr6nA+NlVKtI+ilz2cz5KgVkhiVihyINDjD0JknPXs5NhnfO9xFSlMsBkNybXkNAJM+Zd1bbuNQmOwlRPonDHTv3BHw6myuWeWtShbE9/gYQ7QNFRozupiUUk2IivF51dMB9Y1gtCPq/pI3qBpZahdbyz9CavZDe+u8OvzytCHzVybZDVJo+rtrnHluvvYumhty+HkDD+/i98AgAA//+CC20yAAAABklEQVQDAGxXXo6AWcUdAAAAAElFTkSuQmCC"
     },
     {
       "name": "SoftwareOne",
       "url": "https://portal.platform.softwareone.com/commerce/agreements/AGR-2380-6694-4346/subscriptions",
-      "icon": "https://icons.duckduckgo.com/ip3/portal.platform.softwareone.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABAUlEQVR4nMTTvUoDQRSG4dndKASstRLxFgT1EgTRXjsrUbwHQQjWNuJd2FgIYhkS0iRNSEiTNAmEpElShfxt3gNf2OknkIGHmV3mnJkzOxu7wBa7wLa1BIn3bCL1m/eR18d+bOQCW079I27RxycO8IA2btDCM07wjlP82tgSvOLNS3qFIu5RQU/JhlpkgC984NhKGGnFlUqypDPVeIEaxshjD3+o4w5HOa8MC0690hYuO8gp9pWgg4ZKycfaTqIgm9DFtwLs/RKHKKOJM8zxhHOb8K8yrJXwgqp29IOJ1aqkBVziWudTCP6MidenLrtETuPUGzuXXaR0Exu8g93/TGsAAAD//6vV7HkAAAAGSURBVAMAhMQtmnIPVCsAAAAASUVORK5CYII="
     },
     {
       "name": "docking",
       "url": "https://www.arp.nl/shop/dell-pro-thunderbolt-4-wd25tb4-dock--4954566--p",
-      "icon": "https://icons.duckduckgo.com/ip3/www.arp.nl.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABOElEQVR4nMxTvUoDQRCe2UP8qwR/sNHCkDss7hSNZ2zERvRAfAjBd7AQtFMfIfoEaWNx2llovBAjdyAaD7QURKyigng7zspFYpEYuEIHhp39Zr6Pj2FXQMIQkDD+uYDh+VtGKdhuNYPNGrrnr/FxoGpCXL+dMffbFkifBw4iFRocSgRavbEnDn8VSJcuM0jihMtuzlAZUDDnm5SwEGYtr6nA+NlVKtI+ilz2cz5KgVkhiVihyINDjD0JknPXs5NhnfO9xFSlMsBkNybXkNAJM+Zd1bbuNQmOwlRPonDHTv3BHw6myuWeWtShbE9/gYQ7QNFRozupiUUk2IivF51dMB9Y1gtCPq/pI3qBpZahdbyz9CavZDe+u8OvzytCHzVybZDVJo+rtrnHluvvYumhty+HkDD+/i98AgAA//+CC20yAAAABklEQVQDAGxXXo6AWcUdAAAAAElFTkSuQmCC"
     },
     {
       "name": "Avaya.xlsx",
       "url": "https://vvcmg.sharepoint.com/:x:/r/sites/Support/_layouts/15/Doc.aspx?sourcedoc=%7BAC397675-58D6-4DD0-9F8D-5FCD170D92C9%7D&file=Avaya.xlsx&fromShare=true&action=default&mobileredirect=true",
-      "icon": "https://icons.duckduckgo.com/ip3/vvcmg.sharepoint.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADKklEQVR4nExTS4gcVRQ9932qqnt6ujtOZybpxIUoRvzgbhaRrNSF4kLNQlBBtxHxk4Ui7gQ3oiC4VkfBnWgYBBMUNWg2ZuFgiGRkyCQwmWT6l56uruqqrld1c7smhLzHpR5Vdc895577DO5aX2y8+czAZsdSOXPGPBgO6aFKBY8t7cdu4RCDmauWorH79cSBz3+T34jAINn889ZHJzt69OmWiikzCi51GI9GeLZ9EMb3MeQcYy6Q+Qb9bnTtv3j0wMp9K4mZJW9ufh1s0LUP8oIpjtJ0SlBZkiEeTRA3corTCQ8leVwwxzpVUxSNxZqywkAAZNVqhVWZ8rOp4zzPvUKIyVNCaOcFxSCOhEEoEjKQks9FtRXwLLcE6EvkXLDRUlreKBFljS4PmWX49Qop52CI4Ym8US+ii6v/0h2AI9uD4sYiYbs7pqudQZFLcwSPkzTFqc2LUKnCRAFOampD2LrU5Qvfr+EOwOq+oHGpO6CzGz3m0UTqFNJaBueMtdP/YzJO4FcsK2EkPpAWFq0jLfTWezDLP5xY+fDcPy9c73SqTRUgDIG6mcdSQ2Eu2IX1FQfVGhnfkDKKpQMoXI74+nbJQPXD8DUvUfW3Hz+uxjdjvProc6hnc3T58kiGQZPWinjWFKGuPAUtYXyNXqu1JyHZjfPJJKSjTzxCR196mJIk5W/P/MgERy7zoKSx5AmQp9kGGkopFGJ3a7yAnmxFKatOv0uf/f4dnnxwGV/9eQq9nR1CXPCVC9ssrRcZmk0gIZV1GYYXWv09CUk0KZb8Jt499jK++WsV7zz1ChbnWxyNIiTxlL2qLZOMp0Faic1UOtHHwh6Am2Z6f9Ck02vn8MaXH/NPf9Bi0ETLskoqPmi18AGhvVMhhUAKwysNLM6KAeJDrz39EoURi+GN4fzDTPHu72B88SN5j2a9h1ys8QySVma6WdxQjEXSZyP2+vvr4fqxie/vN6ebx06iOSkl+/QvYfJtu93tnHYGV01toyKtrZirZ0znleXGTU6jGzkSga3o6SzcLz9vFczy54MzYyyqXowgdDWM+ukujig5TrDuTPn3zp/dpZzCwAA//+3rsNWAAAABklEQVQDAGogbsMjp+/KAAAAAElFTkSuQmCC"
     },
     {
       "name": "2agree",
@@ -144,42 +144,42 @@
     {
       "name": "Auvik",
       "url": "https://vencomatic.eu2.my.auvik.com/#msp/root/clients",
-      "icon": "https://icons.duckduckgo.com/ip3/vencomatic.eu2.my.auvik.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABq0lEQVR4nLSTPS9sURSGn/NluPea3NzmdgrVjVyfCSIEhcgoREdBIvwBDYUCg2r8ACER+vkBhPicRASNjEjIBI1CYVDMB3NmZtvHZMaZg4SIt1p77bXWft+11lb5IlS+iLwCfj/a1ha61/u6sJA+Ie+EjLH7lfcqC4GiKAin7YRuP+wGGZBPl2oG6zJhJ/eKTI5v0oJJW0pw8cvDUk6CV2To7h7Rp2v0pNNEClyMHl3iywY9BJjRdUYlk4iM6Y6v0puVpU6QoaYKrooV7hqr8FWV4iFJ2UaITrFMpxT6z2jG88ODL+niPqlw9Vx5AqFa9CyNDdVsGyZFJ4d0WXeRGMPuFENmIUOJCCOW7yZAV0qjqLidnWxfnulPTmaaqcSYdwv6LbOpkjNhEr7+SdjdwZnlSxbSH00zl5fj7Hp4n5VonPGSVg5vA2yH/kD9f1rPD6g1dKZKauiwT+VlCpmKQntk4bfGVGyNYEGCkGLAXhCfqVKRSLBgG7/IY2BHdJNBTVDuOmVstgzq/jKtpTiuKWfRGfvuIn0Ub/4Fa12lztzKWrbfscLfy+AzeAIAAP//EAQ24AAAAAZJREFUAwBOUZeRGd+/6AAAAABJRU5ErkJggg=="
     },
     {
       "name": "PIM",
       "url": "https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles",
-      "icon": "https://icons.duckduckgo.com/ip3/portal.azure.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACj0lEQVR4nIyTu09UQRTGz5k7cx/7AFwgxBjdGB6hMDEGrYjZtcCEZIXKWowJf4AdHbWNCZ3GxM6Ixl4b7bDbaBTEgqAECIbHvrmvmTkOuyCr4uPkFjcz55z5feebYfCnIED4j+C/rcwST76aeTT0YiqbXhyIZa0ByG1Bcby6EKSn4RrK9nTWVtn87/r8eBRF6lZ1aSUv0tYY2okx0yDP3NTtK1Z59PAQdkKDw/DrE6yzW+0VF8NgsyG1H0hZrQekQaNmE82cxWN57QQaRqaFJlZgjrDCks9rK18ZcGFRpIRq+AxiWYA3xOE5ql8atPDd85dGibuDGkmT8LD8fhkZWKCkZtIPNaEYHGlsXW2X8ZMEC+xJsFOgARUm0lhZ3cSoXEUg80mtkHtAmk+cMESDPz7nELNuEEgk5MTSGQjrch4A55nbATomUvUG6kgV4NlHG2ZRHzZo4TsdmRwIt9/MygAckFsYlPwnbvepp6YYQSmmjAxkYuCizuSPZBzbIcQkOkkiy5ZGv6VUWIPs8PJGcWNJVkp1rRk3MiRYHimNk0d1LTtuLniut/kJEbNkSIPTQxYgk8DtXdjZYoMXejtTfT1CBtEBgaXjaK28d2Z4/S76TQKe3M6B7WUJ0RhAzNn+osxVJoPVB16qd/dbyQZFpCUxFYZGojiX7FjP/RgiMj4OdtJs84gcz3gWlqG8k4PY/wCpDFQrURzX98lcJUWKIuOGxFiPtxrceTkAwpoyDnASrktetyXtRBEe5N9CY78AOnonnR5Rq0YWt5Pm7TiuceJgHlNn7631czPtiABe6zjoMkeEqEJbI95vujN3eQ1mitdBs4cqxk7VqEsZx4C0LwxJhSe4/MeTNfaZ9L9lfAcAAP//JLlvNQAAAAZJREFUAwBGX0IJ1G6QIQAAAABJRU5ErkJggg=="
     },
     {
       "name": "BDO",
       "url": "https://bdogpemea.sharepoint.com/sites/gp-mfp-103?clientId=353413",
-      "icon": "https://icons.duckduckgo.com/ip3/bdogpemea.sharepoint.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAd0lEQVR4nNySMQ6AIAxFC+EGbo5ew8XTeChP4+I1HN08A6YmP/kSEkw7mPgXyiP90NIoTkVx6gcG6ezH3B1bGKYlA+7rHHStMebKErtxIuKS8ZnGDwN2lrcltF7Qkr+JvKmVUDL0AXHAL4hRd6KaiFHmm6HvR/kCAAD//9/C1FwAAAAGSURBVAMAPsFAeJhcroAAAAAASUVORK5CYII="
     },
     {
       "name": "TOPdesk Academy Online",
       "url": "https://topdesk.learnupon.com/learning-journey-progression/17ad6869-9ba9-4a58-817b-1866040b8b33/9/33022591/4bb5906e-69fe-4ad0-b862-0214b016b1b2",
-      "icon": "https://icons.duckduckgo.com/ip3/topdesk.learnupon.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC9klEQVR4nDyTXYhNURTH11p73/Nx72UwxjTG14MJpTQMJTwoHryoSYpXhcSklBRPhDckNSWKB2/iRfLihSfJKDUkUaIZEzPj3rn3zj2fa1n7XJz7cU5n773Wf/3+a9ktJ2vnyJTOi3AVhBH+XkT6JwAs/94gEEhMJX8sybK7b29V7xf7EPGi7lyoAQARio+7RwlhnFHx7E4jCsSMQSumHZ5Xubf55NyVIuzWkbqIaC530OXUjBkDDA2Yn+1EzPhX6fasQJITrO2D+oql1HjxnvstIXHGu6g4rIFUsahsdJGswWR0pEzXjlfmiTgCMpBkEp09GDZvHDMrukJuCVUEjQxTIQNdBsBmG+JU754BPQBlQvCNFq5J0BJLySgG8jH0VCS7VNBPugm0Vti4hmp3zoRTq3thLs7E6HuHJXfxjUFHF7U0F6yoV/G6oolUnUQJwLYBk29fl67eOmBb7VicrHYYSJUFea5NpMqkd7HDBJKk4LknZAbqwBcn2Whkl5EaEcLrj1laDWjhhUNBfUO/fDs97NdX9eDyTxM8NdNgsrYDzaqRilGw47QoRsx9z9rrj6Ng/aryr+EduFx/umqgGcH0pQfznqryUWtRARpACrnuy86QNIOSJYGJGVhy+GqzsX+7X1vZY8zULPOTV00zMQuLOxAVKDBYB0QhwdRvaSv0JTs3gnn4stXURrKNeQmuPUpKlUBSpV6qhAZCzc/qlNJXuVqCLuShInk5ni+anKbpvYO49OnlBZNfJtmohfTsTeI/H0sXBCo6Y3EukIPmWpS1CHUZvhhr1QkJj95smbef859rlmHfnkHbu3sT9agr9STHPC/GxOGCTu9p1YruA24ZqZ2wXteoJI08SlkDY9JVLhxxnSCtuBiYIquDrbhzslpI2p6JOBu0Y91dt4d+1YbIqx4pl4q5Cebz/yMIJb+T2V0d/WSEs1klcXR8tPv7//EdPNU4YMjuE45DHdxCyr81Zi7GUVVrQ8uPLGnde3en772GxD8AAAD//6HGpbwAAAAGSURBVAMA6H59UuQycIAAAAAASUVORK5CYII="
     },
     {
       "name": "Phished",
       "url": "https://app.phished.io/en/dashboard",
-      "icon": "https://icons.duckduckgo.com/ip3/app.phished.io.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADZklEQVR4nFSSf2wURRTH35vZH70fe+Wq1FApSC9gGmIwtiAQtT1rr3jalmju/tBItBEuRCExEhP/EA/9gxj9y8aaiyaC0aBXE1GC5tJDGhpRgyTyh9FYQuyJVtvServH3u3tzow7xSPwkp28fTOf77z35inQMCEQEMUDhcI6LaDvRRA7/VgHyi0kM75/Ahz3nYlEYrpxVmJ4I/zQNxOPU117iwZDdwjmgVexmTyhhEIUCQFmV/9gdedA8cH+fIPBhtN3+vRORaN5GmhSXdM678vnOIMLiobIPN5NkOxVjdBGr+Z4wnXTE719n0t2OYPEt4VW4dIf1UikvW5ZeVV3dn+9NWnCDZYoFFq5rh7VIuEdddOacWxn81QyOU+WK+BaSou2tLtW5Veo8z0S7srl1Aa8b9/bemFgYCE6V8nwsjmrRyJrm0KBtNz7X0DE/TIAOR4q9veXIZ+n5zMZd133yJ2r7nm2c3R0vyNbNp4eKs3e1vK+CIcE5axXsso1FbHeWbxyrji/OA6pFIV0mnd0PbWmoqlnfN3aD+sffXn1LeW7FcOhU298svqzkUfgclBv8zWJFPBbSUwG7mEfZJDNKjA+Lsqqnr1dUVpfX/qHdXbGPjZSOwAogeSxk7DplSPw6dAWH8wShHyK9q3MxE8BnYR4nMmK2u7dcx9XyamcXaaDtxrAvxxFtGtMWDaAEcTKYy9Qtlg261GjH+Fmwyz00je3bSgOUezJmfPe1Y52Gh7sgdrJKQgMx/2vF+bSB3hwwaI24V+Ra4MkxyUrfXFka+xJQpWeLsdmiqpStzSL5YNjoHZ3YnDXINaK3wMvzZIqBTmJ99NlgUNymYTmu56Iarr+kYOk+WFw2SbGSNVjSBUC7i+/A1tYQiOTBm+65P9fAtKkU9JIXd4eNMIvAiMxrW0FNZObNc+uEW1jjBsvjSCJGuD9fFHminTlCq4J/2GR/KY0YPnevtrzwl8CCj3895bY3NLxM6+1eMIIPjPMAolthDsu8rlF5kz9JILhILWFeBcbAm3bd39A1dDTvH717J/fvdfjx7zS9l3DoX8rR/UNa5vFsB8iKLzjk6he+gssjYytOnfsOXK9/1xcEcytugJelXAqldXWnP3wCzuiDVSnZ06Us2OWeXCMeRcvX6joZL+EJfYfAAAA///6Qh8mAAAABklEQVQDAA64fxQvjQKxAAAAABJRU5ErkJggg=="
     },
     {
       "name": "WhatsApp Business",
       "url": "https://web.whatsapp.com/",
-      "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACk0lEQVR4nHySzU4TURTHz7nzVUFg3KgJBgdfoLNxX54A2JjghjaxiLro8AQtT0C7M0DSqpEaN9YnoO5M3Aw740LGhIUbQ8V+zce9xzNAtRLwJJOZO/9zz/2f3z06XIg7zfVcrNNi34QlAehMDwUYCfgs+SpSm0HheTCej6MPt563TyyzLDXhAVBHl+CbEg6uxQgSMds3MScFgBVi1Trubfobjc6fAg5vNg1jP9HQjRBr+iCsBIWzhFE49XUnngRvZqiXJkPy425vIS2ip2I4YZaBwAWlNo5WdqtwSZxb96ZfPgt6Fm6RMVnm9QbazbxjmeahIal29GDHm9tbWzUA8zIMly+6GMXsm6dVS4mSkLAg2HoZCSCR8enJiFjhVnLD6xkPrghj0K8IBR0l1JK4JsHVFbW/rzQCm1loTJ4BgpnQ3asKpM6mIulrQItCU+haMRykQocFK6G2YEeC6D38JxDoQCE6Il1MRX+FmW5YQJKdXga2bjOf0X93K2+PF/hpERAqSA8L+MmOhI9PGsFMHxYmYrKjjLk/+3Y9P9dcK/+6lTm+13xcT9tM80INspEgH529YlUnWE2ieH6c+v3tovtjCt8NdXAUT4vFXFLYnUF0I5MBGwzzUAE1RILUYuo2ZIylcYuf1nb8ryvb8ze7VJgZUJvBtkDBcsrJEGYpzYniePN0kIhPwJiCy2D5hZ0GvxqjtfO6WOKh8xJFtQ7fnK6EyCEX0PQkcF49yoEm7EwY+Z8LjX8KpuMueWL5/j09IR/iuJL+18U5QKmZh0Kc9SktE7L1Yptnwh9obNUgNxHgsmwDUW2CN38556XzDpsIW1KoDzqJQEluRaB3YjFlA7yuCdw6BnwrL4xYtb493G2PO/sNAAD//3Ub3/8AAAAGSURBVAMAdPMz+ky+7x4AAAAASUVORK5CYII="
     },
     {
       "name": "How AI agents & Claude skills work (Clearly Explained) - YouTube",
       "url": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
-      "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAABJRU5ErkJggg=="
     },
     {
       "name": "Microsoft Copilot Studio Can Build Apps Now! - YouTube",
       "url": "https://www.youtube.com/watch?v=ClcdJt3U-SY",
-      "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAABJRU5ErkJggg=="
     },
     {
       "name": "Agent Harness explained in 8min.. - YouTube",
@@ -189,12 +189,12 @@
     {
       "name": "Project OT - Planning.xlsx",
       "url": "https://vvcmg.sharepoint.com/:x:/r/sites/ProjectOTAP/_layouts/15/Doc.aspx?sourcedoc=%7B3F6FDCE0-8179-4D51-A56A-816F65DE21AD%7D&file=Project%20OT%20-%20Planning.xlsx&action=default&mobileredirect=true",
-      "icon": "https://icons.duckduckgo.com/ip3/vvcmg.sharepoint.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADKklEQVR4nExTS4gcVRQ9932qqnt6ujtOZybpxIUoRvzgbhaRrNSF4kLNQlBBtxHxk4Ui7gQ3oiC4VkfBnWgYBBMUNWg2ZuFgiGRkyCQwmWT6l56uruqqrld1c7smhLzHpR5Vdc895577DO5aX2y8+czAZsdSOXPGPBgO6aFKBY8t7cdu4RCDmauWorH79cSBz3+T34jAINn889ZHJzt69OmWiikzCi51GI9GeLZ9EMb3MeQcYy6Q+Qb9bnTtv3j0wMp9K4mZJW9ufh1s0LUP8oIpjtJ0SlBZkiEeTRA3corTCQ8leVwwxzpVUxSNxZqywkAAZNVqhVWZ8rOp4zzPvUKIyVNCaOcFxSCOhEEoEjKQks9FtRXwLLcE6EvkXLDRUlreKBFljS4PmWX49Qop52CI4Ym8US+ii6v/0h2AI9uD4sYiYbs7pqudQZFLcwSPkzTFqc2LUKnCRAFOampD2LrU5Qvfr+EOwOq+oHGpO6CzGz3m0UTqFNJaBueMtdP/YzJO4FcsK2EkPpAWFq0jLfTWezDLP5xY+fDcPy9c73SqTRUgDIG6mcdSQ2Eu2IX1FQfVGhnfkDKKpQMoXI74+nbJQPXD8DUvUfW3Hz+uxjdjvProc6hnc3T58kiGQZPWinjWFKGuPAUtYXyNXqu1JyHZjfPJJKSjTzxCR196mJIk5W/P/MgERy7zoKSx5AmQp9kGGkopFGJ3a7yAnmxFKatOv0uf/f4dnnxwGV/9eQq9nR1CXPCVC9ssrRcZmk0gIZV1GYYXWv09CUk0KZb8Jt499jK++WsV7zz1ChbnWxyNIiTxlL2qLZOMp0Faic1UOtHHwh6Am2Z6f9Ck02vn8MaXH/NPf/9Bi0ETLskoqPmi18AGhvVMhhUAKwysNLM6KAeJDrz39EoURi+GN4fzDTPHu72B88SN5j2a9h1ys8QySVma6WdxQjEXSZyP2+vvr4fqxie/vN6ebx06iOSkl+/QvYfJtu93tnHYGV01toyKtrZirZ0znleXGTU6jGzkSga3o6SzcLz9vFczy54MzYyyqXowgdDWM+ukujig5TrDuTPn3zp/dpZzCwAA//+3rsNWAAAABklEQVQDAGogbsMjp+/KAAAAAElFTkSuQmCC"
     },
     {
       "name": "Namen van contacten ontbreken | WhatsApp-helpcentrum",
       "url": "https://faq.whatsapp.com/522615322631338/?cms_platform=android",
-      "icon": "https://icons.duckduckgo.com/ip3/faq.whatsapp.com.ico"
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSUlEQVR4nGxSXUxcRRQ+83f37gLlT6CxtA3LLrUoJb74E1+qRvEXMbpoYvyrKWu11lR9MBhTatKHPjQmLog0JfHB2sRriIkREhML8aU+dIMUuu2C0gY31krdloXK3Tt3znjvBaRJeyYzc87JfGe+88NhTXqAehthOBbaFn30eXDhGeRuHJFRjWwmQszvQrPZofTT3/8LGoi3tA8jAXjV0TL+RocqZ0ckuLdTu+QMc9S0ogp0iMUId1uloedF3nw/25r6dg3jx6Gegg3Zt7vDFeKQyuNxvOYemrn/83Nwg2zIPBffhJs/wmrz1eWl6wfm4qlP/CABg8ap3S+K2sgJlV9+d+aOo5/9j9I9NLhJD665Ypn9b4kq1mf/s/jyhTsHviJbzjxZKcJ1s0xGrOnm3q5N2WSrIKTt4ih+Csmjcj2Yn27CY2upprPvpIC7r8CfuUZqwJbXKUGjem75QzjdJcKa94U2lh7e+gBtXwWusvBDWOifzvTix1RzQmq27qLAeYLZkZ9OPTaYr79SUsYli+qCI0MAbXCzaDgI5OKzX17TSv8omX6BEqriEvFX/4/cYG7BUCQNCoR0lvoC2lZivVN+TQ6s2BpxkhhuA9VEMxSuHTyxLJWnqhu1WzRLN7wZ0O601HoKXjEtKzAd7hYRgXEN6rLQtCnwju7kuR29k9HxPbvURuP4tmyy6urVwr66SGW7W0va9bxOnb+SOQkwBkS7MSLFZWraYoSR0CM+GB4cc+GbBJu9u/9rnHM6IcSeKK+OzDlEDhCDPYUcreb5GhO0poxF2piSI1QVoF9RXdVQ05QM8oxWUj/X3+7tt9RfznaP/xFl0Am54Iy7yPZnOq2l6ERXFzCsXwLzC34+88uFxtr7FgiD21bme6X3zVMJI3PXsZyndsPw4wfhj78RkmlZd3pvC6sQfdouHL7UMniOxCZf2wlm6AfneuEeQcpJiPDNmR29I7doITSf3f0SlpYdQ1ufLBv7uSN9Ka04YfQhZBAR4YohrnW9zTHclN03xR0csqk7AwzAkG5cmaKjyFirkMspfqL/g3QPBEw5EvqwNwwTWuGoKKphR8silJbsdQzyHghd5pfFoXQRvMFRrtzz+/aBUzey+g8AAP//Kw6oRQAAAAZJREFUAwBc9oCEV6YLZAAAAABJRU5ErkJggg=="
     }
   ]
 }
