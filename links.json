@@ -35,6 +35,166 @@
     { 
       "name": "edit this page", 
       "url": "https://github.com/patricktholen/work/edit/prod/links.json"
+    },
+    {
+      "name": "work",
+      "url": "https://patricktholen.github.io/work/",
+      "icon": "https://icons.duckduckgo.com/ip3/patricktholen.github.io.ico"
+    },
+    {
+      "name": "visma",
+      "url": "https://home.visma.com/home",
+      "icon": "https://icons.duckduckgo.com/ip3/home.visma.com.ico"
+    },
+    {
+      "name": "IT Projects",
+      "url": "https://vvcmg-my.sharepoint.com/personal/patrick_tholen_vencomaticgroup_com/Lists/IT%20Projects/AllItems.aspx?env=WebViewList&npsAction=createList",
+      "icon": "https://icons.duckduckgo.com/ip3/vvcmg-my.sharepoint.com.ico"
+    },
+    {
+      "name": "topdesk",
+      "url": "https://vencomatic.topdesk.net/",
+      "icon": "https://icons.duckduckgo.com/ip3/vencomatic.topdesk.net.ico"
+    },
+    {
+      "name": "Support",
+      "url": "https://vencomatic.topdesk.net/tas/secure/agileboard/#/board/82b07a2e-4922-40f7-a4d4-889b7035e446",
+      "icon": "https://icons.duckduckgo.com/ip3/vencomatic.topdesk.net.ico"
+    },
+    {
+      "name": "Infra",
+      "url": "https://vencomatic.topdesk.net/tas/secure/agileboard/#/board/27015a7a-b308-4f5a-b4e2-77547a55de52",
+      "icon": "https://icons.duckduckgo.com/ip3/vencomatic.topdesk.net.ico"
+    },
+    {
+      "name": "Management",
+      "url": "https://vencomatic.topdesk.net/tas/secure/agileboard/#/board/5b0478d6-5d77-4b5b-ae5b-1167839f63cd",
+      "icon": "https://icons.duckduckgo.com/ip3/vencomatic.topdesk.net.ico"
+    },
+    {
+      "name": "ISP",
+      "url": "https://isp.vencomaticgroup.com/procurement/isp_invoice.nsf",
+      "icon": "https://icons.duckduckgo.com/ip3/isp.vencomaticgroup.com.ico"
+    },
+    {
+      "name": "Building Operation",
+      "url": "http://172.16.0.102:4800/#%2FRegelkast%203.1.2%2FWerkplekken%2F1e%20Verdieping%2FZone%204.2%2FWerkplek",
+      "icon": "https://icons.duckduckgo.com/ip3/172.16.0.102.ico"
+    },
+    {
+      "name": "it infra",
+      "url": "https://dev.azure.com/VCMG-IT-Operations/IT%20Operations/_boards/board/t/it%20infra/Backlog%20items",
+      "icon": "https://icons.duckduckgo.com/ip3/dev.azure.com.ico"
+    },
+    {
+      "name": "my work",
+      "url": "https://dev.azure.com/VCMG-IT-Operations/IT%20Operations/_workitems/recentlyupdated/?fullScreen=true",
+      "icon": "https://icons.duckduckgo.com/ip3/dev.azure.com.ico"
+    },
+    {
+      "name": "atleta",
+      "url": "https://atleta.cc/p/qPUL/qPULiPWakK8C/events/qPULS2GiQeKk/ff1fa4e9df5f0ecbfae3dd3126df7914fe3eedfdb80bc090339809ac29ad1094",
+      "icon": "https://icons.duckduckgo.com/ip3/atleta.cc.ico"
+    },
+    {
+      "name": "CMDB Vencomatic.xlsx",
+      "url": "https://bechtle365.sharepoint.com/:x:/r/sites/BG365-ARPAssetServicesDaily/_layouts/15/Doc.aspx?sourcedoc=%7BE05C302B-9041-4FC8-888B-4D897F5AEACB%7D&file=CMDB%20Vencomatic.xlsx&action=default&mobileredirect=true",
+      "icon": "https://icons.duckduckgo.com/ip3/bechtle365.sharepoint.com.ico"
+    },
+    {
+      "name": "Docusign",
+      "url": "https://apps.docusign.com/send/home",
+      "icon": "https://icons.duckduckgo.com/ip3/apps.docusign.com.ico"
+    },
+    {
+      "name": "Teun stagemap",
+      "url": "https://vvcmg-my.sharepoint.com/shared?listurl=https%3A%2F%2Fvvcmg%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Fsander%5Fvanasten%5Fvencomaticgroup%5Fcom%2FDocuments&e=5%3A7278ef245db74f29bc60c16a18a57fc1&sharingv2=true&fromShare=true&at=9&CT=1783929243585&OR=OWA%2DNT%2DMail&SI=NonSentItems&clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MDMwMDguMDUiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&SLSync=F&cidOR=Client&id=%2Fpersonal%2Fsander%5Fvanasten%5Fvencomaticgroup%5Fcom%2FDocuments%2F01%2E%20ONDERWIJS%2F03%2E%20STAGE%2F2026%2D2027%2F450%2E%20Teun%20Heessen&FolderCTID=0x012000B77282EEFC918B4A88F4D8F7807CA0AA",
+      "icon": "https://icons.duckduckgo.com/ip3/vvcmg-my.sharepoint.com.ico"
+    },
+    {
+      "name": "Teun - SVS",
+      "url": "https://studenttracking.venco.group/Application/Details?id=1335",
+      "icon": "https://icons.duckduckgo.com/ip3/studenttracking.venco.group.ico"
+    },
+    {
+      "name": "ARP",
+      "url": "https://www.arp.nl/shop/my-account/wishlists?sort=byNameAsc&viewableBy=viewableByAll",
+      "icon": "https://icons.duckduckgo.com/ip3/www.arp.nl.ico"
+    },
+    {
+      "name": "SoftwareOne",
+      "url": "https://portal.platform.softwareone.com/commerce/agreements/AGR-2380-6694-4346/subscriptions",
+      "icon": "https://icons.duckduckgo.com/ip3/portal.platform.softwareone.com.ico"
+    },
+    {
+      "name": "docking",
+      "url": "https://www.arp.nl/shop/dell-pro-thunderbolt-4-wd25tb4-dock--4954566--p",
+      "icon": "https://icons.duckduckgo.com/ip3/www.arp.nl.ico"
+    },
+    {
+      "name": "Avaya.xlsx",
+      "url": "https://vvcmg.sharepoint.com/:x:/r/sites/Support/_layouts/15/Doc.aspx?sourcedoc=%7BAC397675-58D6-4DD0-9F8D-5FCD170D92C9%7D&file=Avaya.xlsx&fromShare=true&action=default&mobileredirect=true",
+      "icon": "https://icons.duckduckgo.com/ip3/vvcmg.sharepoint.com.ico"
+    },
+    {
+      "name": "2agree",
+      "url": "https://www.contract-management-system.com/Dashboard3.aspx?",
+      "icon": "https://icons.duckduckgo.com/ip3/www.contract-management-system.com.ico"
+    },
+    {
+      "name": "Auvik",
+      "url": "https://vencomatic.eu2.my.auvik.com/#msp/root/clients",
+      "icon": "https://icons.duckduckgo.com/ip3/vencomatic.eu2.my.auvik.com.ico"
+    },
+    {
+      "name": "PIM",
+      "url": "https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles",
+      "icon": "https://icons.duckduckgo.com/ip3/portal.azure.com.ico"
+    },
+    {
+      "name": "BDO",
+      "url": "https://bdogpemea.sharepoint.com/sites/gp-mfp-103?clientId=353413",
+      "icon": "https://icons.duckduckgo.com/ip3/bdogpemea.sharepoint.com.ico"
+    },
+    {
+      "name": "TOPdesk Academy Online",
+      "url": "https://topdesk.learnupon.com/learning-journey-progression/17ad6869-9ba9-4a58-817b-1866040b8b33/9/33022591/4bb5906e-69fe-4ad0-b862-0214b016b1b2",
+      "icon": "https://icons.duckduckgo.com/ip3/topdesk.learnupon.com.ico"
+    },
+    {
+      "name": "Phished",
+      "url": "https://app.phished.io/en/dashboard",
+      "icon": "https://icons.duckduckgo.com/ip3/app.phished.io.ico"
+    },
+    {
+      "name": "WhatsApp Business",
+      "url": "https://web.whatsapp.com/",
+      "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico"
+    },
+    {
+      "name": "How AI agents & Claude skills work (Clearly Explained) - YouTube",
+      "url": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
+      "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico"
+    },
+    {
+      "name": "Microsoft Copilot Studio Can Build Apps Now! - YouTube",
+      "url": "https://www.youtube.com/watch?v=ClcdJt3U-SY",
+      "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico"
+    },
+    {
+      "name": "Agent Harness explained in 8min.. - YouTube",
+      "url": "https://www.youtube.com/watch?v=1a1VXDdIyrk",
+      "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico"
+    },
+    {
+      "name": "Project OT - Planning.xlsx",
+      "url": "https://vvcmg.sharepoint.com/:x:/r/sites/ProjectOTAP/_layouts/15/Doc.aspx?sourcedoc=%7B3F6FDCE0-8179-4D51-A56A-816F65DE21AD%7D&file=Project%20OT%20-%20Planning.xlsx&action=default&mobileredirect=true",
+      "icon": "https://icons.duckduckgo.com/ip3/vvcmg.sharepoint.com.ico"
+    },
+    {
+      "name": "Namen van contacten ontbreken | WhatsApp-helpcentrum",
+      "url": "https://faq.whatsapp.com/522615322631338/?cms_platform=android",
+      "icon": "https://icons.duckduckgo.com/ip3/faq.whatsapp.com.ico"
     }
   ]
 }
